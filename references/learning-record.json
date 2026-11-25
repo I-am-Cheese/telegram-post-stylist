@@ -1,0 +1,37 @@
+{
+  "scope": "Telegram post workflow only; not the unrelated video editing chat",
+  "reference_links": [
+    "https://t.me/c/3936328358/9",
+    "https://t.me/c/3936328358/10",
+    "https://t.me/c/3936328358/59"
+  ],
+  "source_drafts": [
+    {
+      "kind": "giveaway",
+      "facts": {
+        "target_subscribers": 1000,
+        "prize_stars": 500,
+        "winners": 20,
+        "stars_per_winner": 25
+      },
+      "original_voice": "парни, ты, добиваем косарь; CTA subscribe/share/react",
+      "edited_example": "examples/giveaway.json"
+    },
+    {
+      "kind": "developer notice",
+      "original": "В пролых версиях была ратка, оказалось то что главный наш кодер работал на Seven Squad(команда по взлому телефонов) теперь новый апк полность чист так как мы экстренно наняли нового кодера",
+      "source_status": "User-supplied assertion; not independently verified.",
+      "edited_example": "examples/developer-notice.json"
+    }
+  ],
+  "last_user_corrections": {
+    "footer": "Remove only on explicit instruction; no autonomous editorial exception.",
+    "meaning": "Do not change intended formulation/meaning or insert unasked technical conclusions.",
+    "link": "<ссылка \"https://link.com/test\"> текст ссылки </ссылка \"https://link.com/test\">",
+    "plain_txt": "No formatting, only normal text/emojis/line breaks.",
+    "chat_scheme": "Russian names in angle brackets, not HTML.",
+    "preview": "Include a phone preview image."
+  },
+  "publication_request": "User requested creating/installing the skill and publishing on GitHub like the prior montage skill.",
+  "not_included": "Hidden internal reasoning, unrelated private chats/windows, auth sessions/tokens, proprietary fonts."
+}
