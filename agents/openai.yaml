@@ -1,0 +1,6 @@
+interface:
+  display_name: "Telegram Post Stylist"
+  short_description: "Посты для Telegram: TXT, русские теги и предпросмотр"
+  default_prompt: "Используй $telegram-post-stylist: пришлю тему или черновик, подготовь TXT, схему русскими тегами и картинку."
+policy:
+  allow_implicit_invocation: true
