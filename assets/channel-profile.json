@@ -1,0 +1,13 @@
+{
+  "channel_name": "Exit - DLC for Standoff 2",
+  "avatar_letter": "E",
+  "language": "ru",
+  "audience_address": "вы",
+  "footer_default": true,
+  "footer_omission": "explicit user request only",
+  "footer": [
+    {"text": "Подписаться на ExitDLC", "url": "https://t.me/ExitDLC"},
+    {"text": "Купить приватный чит ExitDLC", "url": "https://t.me/ExitFeedbackBot"}
+  ],
+  "preview": {"width": 840, "minimum_height": 1680, "clock": "21:57", "label": "Тестовый макет"}
+}
