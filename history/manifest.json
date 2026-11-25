@@ -1,0 +1,114 @@
+{
+  "scope": "Only Telegram-post learning artifacts, not unrelated montage or private-app logs",
+  "files": [
+    {
+      "path": "outputs/Telegram - тест 01/Пост.txt",
+      "bytes": 815,
+      "sha256": "aa0274c232f55c0dfafc608fc9cb4297da2adcf0c371f8c731c8425ee66b4539"
+    },
+    {
+      "path": "outputs/Telegram - тест 01/Предпросмотр - телефон.png",
+      "bytes": 126210,
+      "sha256": "34e981c9182266f203326e3796e3ec6715c22a227b4a4b836fea5ecbc4cab4a3"
+    },
+    {
+      "path": "outputs/Telegram - тест 01/Предпросмотр - узкий экран.png",
+      "bytes": 105680,
+      "sha256": "335a6abd5716120ef53272c6501f02bfeff6591ded01bbd0476d1ae0058ea3a3"
+    },
+    {
+      "path": "outputs/Telegram - тест 02/Пост для Telegram.txt",
+      "bytes": 842,
+      "sha256": "7ce0ab7f0a584b2664e9039dd6031f0d4ae019ba72cb3b25fb4561e8564f7ceb"
+    },
+    {
+      "path": "outputs/Telegram - тест 02/Предпросмотр.png",
+      "bytes": 126011,
+      "sha256": "20d6a262881fb503c61a6bd94ca551be202cdd152bc2f8bd3b087c1ef8b2bce1"
+    },
+    {
+      "path": "outputs/Telegram - тест 03/Пост без форматирования.txt",
+      "bytes": 818,
+      "sha256": "1d8482143910451c899fd9041f00ecb9fca3e6034faf53880d04061bc8fc4063"
+    },
+    {
+      "path": "outputs/Telegram - тест 03/Предпросмотр.png",
+      "bytes": 126210,
+      "sha256": "34e981c9182266f203326e3796e3ec6715c22a227b4a4b836fea5ecbc4cab4a3"
+    },
+    {
+      "path": "outputs/Telegram - тест 04/Пост без форматирования.txt",
+      "bytes": 905,
+      "sha256": "bd1dab94b8913a2ce9d697f53f079c31ca9696f330a87768ec5a1907b6a79c1b"
+    },
+    {
+      "path": "outputs/Telegram - тест 04/Предпросмотр.png",
+      "bytes": 135168,
+      "sha256": "49282b41198f72d8f65de48b4a80c623782b89d96bea9820028d4ac3ca554152"
+    },
+    {
+      "path": "outputs/Telegram - тест 05/Пост без форматирования.txt",
+      "bytes": 812,
+      "sha256": "cd055cc6ac15b9101f8e06db1680c04e46dd3fb9c6d38597ff8e1446d36a18cf"
+    },
+    {
+      "path": "outputs/Telegram - тест 05/Предпросмотр.png",
+      "bytes": 123960,
+      "sha256": "08ca93890c06c67801f3842f55a77f369682811f19cb5c55c69113a7bd2a2783"
+    },
+    {
+      "path": "outputs/Telegram - тест 06/Пост без форматирования.txt",
+      "bytes": 497,
+      "sha256": "8ba550f64c2a92d65d294ce2fa7349f46a34a168c469168937ff0ec804de73e3"
+    },
+    {
+      "path": "outputs/Telegram - тест 06/Предпросмотр.png",
+      "bytes": 88120,
+      "sha256": "36529ca3aed2ef8ad72d70fd8a70131cca231d9721af3724ad1c06d627cbee9e"
+    },
+    {
+      "path": "work/telegram_post_footer.py",
+      "bytes": 6853,
+      "sha256": "b456dbd8920b207f063921a3121a26db8766343aeb0a20e638ec705c0d6bc14e"
+    },
+    {
+      "path": "work/telegram_post_plain.py",
+      "bytes": 6587,
+      "sha256": "8d27bcc469328b4acedb9e698ec8c75e2df573fbbe00298747ebeee66cff7286"
+    },
+    {
+      "path": "work/telegram_post_security.py",
+      "bytes": 6511,
+      "sha256": "5943f5412bb5cef68a9beef6362dedef1e8fa764eb081cd5af6b36388c798c3d"
+    },
+    {
+      "path": "work/telegram_post_security_revision.py",
+      "bytes": 6221,
+      "sha256": "3ac3cc702e1850f87097d129d578e2bfc72421dc35948c5b264fb196609414d2"
+    },
+    {
+      "path": "work/telegram_post_test.py",
+      "bytes": 7915,
+      "sha256": "2f6e39b20ca9d557777b851e3dfc38c4b3e8f44181bb8d73c4b91c71bc0f9841"
+    },
+    {
+      "path": "work/telegram_post_txt.py",
+      "bytes": 6339,
+      "sha256": "aa29977ec673af13b7b0fc591231e228549431e6a67bd241389a8c93f7f1dce0"
+    },
+    {
+      "path": "work/telegram_style_state.json",
+      "bytes": 1653,
+      "sha256": "a752ded7e87cc4bb7b7784a63965bcf0e9d613e4dbb75d9629418f4a09007568"
+    }
+  ],
+  "entries": 20,
+  "zip_sha256": "19ef9be1fc451dce891a40b4c44b87ef6b544127dbbbaf11907218f053b5e691",
+  "superseded_tests": [
+    "01",
+    "02",
+    "03",
+    "05"
+  ],
+  "current_output_contract": "plain TXT + Russian scheme in chat + labeled PNG; current SKILL and learned-style take precedence over archived scripts."
+}
